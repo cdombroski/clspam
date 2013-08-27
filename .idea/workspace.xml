@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d960262b-eee9-47a5-ab9f-8c1fb19e2605" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="DELETED" beforePath="C:\Users\chris.dombroski\IdeaProjects\clspam\.idea\workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
     </list>
     <ignored path="clspam.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -18,7 +17,7 @@
     <file path="/osb_test.clj" changelist="d960262b-eee9-47a5-ab9f-8c1fb19e2605" time="1375388420384" ignored="false" />
     <file path="/osb.clj" changelist="d960262b-eee9-47a5-ab9f-8c1fb19e2605" time="1375388290324" ignored="false" />
     <file path="/Clojure REPL" changelist="d960262b-eee9-47a5-ab9f-8c1fb19e2605" time="1377630200708" ignored="false" />
-    <file path="/Dummy.txt" changelist="d960262b-eee9-47a5-ab9f-8c1fb19e2605" time="1377630261552" ignored="false" />
+    <file path="/Dummy.txt" changelist="d960262b-eee9-47a5-ab9f-8c1fb19e2605" time="1377630749233" ignored="false" />
     <file path="/README" changelist="d960262b-eee9-47a5-ab9f-8c1fb19e2605" time="1375388708916" ignored="false" />
     <file path="/README.md" changelist="d960262b-eee9-47a5-ab9f-8c1fb19e2605" time="1375388921241" ignored="false" />
     <file path="/data.clj" changelist="d960262b-eee9-47a5-ab9f-8c1fb19e2605" time="1377629046792" ignored="false" />
@@ -520,7 +519,11 @@
       <created>1377630270494</created>
       <updated>1377630270494</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add .gitignore">
+      <created>1377630752383</created>
+      <updated>1377630752383</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -598,7 +601,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Database abstraction" />
+    <option name="LAST_COMMIT_MESSAGE" value="add .gitignore" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -616,6 +619,7 @@
     <MESSAGE value="Travis-ci" />
     <MESSAGE value="Fix the status url." />
     <MESSAGE value="Database abstraction" />
+    <MESSAGE value="add .gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
