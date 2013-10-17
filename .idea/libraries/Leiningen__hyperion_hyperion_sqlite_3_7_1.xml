@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: hyperion:hyperion-sqlite:3.7.1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/hyperion/hyperion-sqlite/3.7.1/hyperion-sqlite-3.7.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

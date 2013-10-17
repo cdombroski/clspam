@@ -15,13 +15,31 @@
     </content>
     <orderEntry type="jdk" jdkName="1.6" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Leiningen: hyperion:hyperion-api:3.6.0" level="project" />
+    <orderEntry type="library" name="Leiningen: aleph:aleph:0.3.0" level="project" />
+    <orderEntry type="library" name="Leiningen: chee:chee:1.0.0" level="project" />
+    <orderEntry type="library" name="Leiningen: hyperion:hyperion-sqlite:3.7.1" level="project" />
     <orderEntry type="library" name="Leiningen: midje:midje:1.5.1" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojure:clojure:1.5.1" level="project" />
-    <orderEntry type="library" name="Leiningen: chee:chee:1.0.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure:tools.logging:0.2.6" level="project" />
+    <orderEntry type="library" name="Leiningen: cheshire:cheshire:5.2.0" level="project" />
+    <orderEntry type="library" name="Leiningen: gloss:gloss:0.2.2" level="project" />
+    <orderEntry type="library" name="Leiningen: io.netty:netty:3.6.6.Final" level="project" />
+    <orderEntry type="library" name="Leiningen: lamina:lamina:0.5.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.apache.commons:commons-compress:1.4.1" level="project" />
+    <orderEntry type="library" name="Leiningen: org.clojure:data.xml:0.0.7" level="project" />
+    <orderEntry type="library" name="Leiningen: potemkin:potemkin:0.2.2" level="project" />
+    <orderEntry type="library" name="Leiningen: com.fasterxml.jackson.core:jackson-core:2.2.1" level="project" />
+    <orderEntry type="library" name="Leiningen: com.fasterxml.jackson.dataformat:jackson-dataformat-smile:2.2.1" level="project" />
+    <orderEntry type="library" name="Leiningen: tigris:tigris:0.1.1" level="project" />
+    <orderEntry type="library" name="Leiningen: org.flatland:useful:0.9.0" level="project" />
+    <orderEntry type="library" name="Leiningen: org.tukaani:xz:1.0" level="project" />
+    <orderEntry type="library" name="Leiningen: hyperion:hyperion-api:3.7.1" level="project" />
+    <orderEntry type="library" name="Leiningen: hyperion:hyperion-sql:3.7.1" level="project" />
+    <orderEntry type="library" name="Leiningen: org.xerial:sqlite-jdbc:3.7.2" level="project" />
     <orderEntry type="library" name="Leiningen: com.taoensso:timbre:1.0.0" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojure:data.codec:0.1.0" level="project" />
     <orderEntry type="library" name="Leiningen: clj-stacktrace:clj-stacktrace:0.2.5" level="project" />
+    <orderEntry type="library" name="Leiningen: c3p0:c3p0:0.9.1.2" level="project" />
     <orderEntry type="library" name="Leiningen: bultitude:bultitude:0.1.7" level="project" />
     <orderEntry type="library" name="Leiningen: colorize:colorize:0.1.1" level="project" />
     <orderEntry type="library" name="Leiningen: commons-codec:commons-codec:1.6" level="project" />
