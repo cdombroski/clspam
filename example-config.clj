@@ -16,11 +16,9 @@
   ;:token-regex "[[:graph:]]+"
 
   ;A class that transforms the message into the actual hash values that will be stored
-  ;must implement clspam.protocol.hasher
   ;:token-hasher nil
 
   ;A class that scores the message based on the values from the :token-hasher
-  ;implements clspam.protocol.scorer
   ;:scoring-algorithm nil
 
   ;A string that separates the email address user from the extension

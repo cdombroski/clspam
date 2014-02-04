@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Leiningen: org.codehaus.plexus:plexus-interpolation:1.14">
+  <library name="Leiningen: org.codehaus.plexus/plexus-interpolation:1.14">
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/org/codehaus/plexus/plexus-interpolation/1.14/plexus-interpolation-1.14.jar!/" />
     </CLASSES>

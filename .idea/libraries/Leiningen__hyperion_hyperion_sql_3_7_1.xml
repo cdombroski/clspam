@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Leiningen: hyperion:hyperion-sql:3.7.1">
+  <library name="Leiningen: hyperion/hyperion-sql:3.7.1">
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/hyperion/hyperion-sql/3.7.1/hyperion-sql-3.7.1.jar!/" />
     </CLASSES>

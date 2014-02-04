@@ -32,8 +32,8 @@
         (let [hasher (.newInstance (Class/forName (:token-hasher config)))
               scorer (.newInstance (Class/forName (:scoring-algorithm config)))]
           (if (and
-                (instance? hasher/Hasher hasher)
-                (instance? scorer/Scorer scorer))
+                (fn? hasher)
+                (fn? scorer))
             (do
               (when-not (.exists (io/file (:token-file config)))
                 (data/create-database (str "jdbc:sqlite:" (:token-file config))))

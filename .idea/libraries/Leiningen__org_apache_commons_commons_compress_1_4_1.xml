@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Leiningen: org.apache.commons:commons-compress:1.4.1">
+  <library name="Leiningen: org.apache.commons/commons-compress:1.4.1">
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.4.1/commons-compress-1.4.1.jar!/" />
     </CLASSES>

@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Leiningen: org.sonatype.sisu:sisu-inject-bean:2.2.3">
+  <library name="Leiningen: org.sonatype.sisu/sisu-inject-bean:2.2.3">
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/org/sonatype/sisu/sisu-inject-bean/2.2.3/sisu-inject-bean-2.2.3.jar!/" />
     </CLASSES>

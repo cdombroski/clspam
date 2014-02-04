@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="Leiningen: org.jsoup:jsoup:1.6.1">
+  <library name="Leiningen: org.jsoup/jsoup:1.6.1">
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/org/jsoup/jsoup/1.6.1/jsoup-1.6.1.jar!/" />
     </CLASSES>
