@@ -9,5 +9,4 @@
                    :plugins [[lein-midje "3.0.1"]]}
              :1.5 [:dev {:dependencies [[org.clojure/clojure "1.5.0"]]}]
              :1.5.1 [:dev {:dependencies [[org.clojure/clojure "1.5.1"]]}]}
-  :main clspam.core
-  :aot [clspam.protocol.hasher clspam.protocol.scorer])
+  :main clspam.core)
