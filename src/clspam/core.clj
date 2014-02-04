@@ -1,9 +1,7 @@
 (ns clspam.core
   (:gen-class )
   (:import [java.io PushbackReader])
-  (:require [clspam.protocol.scorer :as scorer]
-            [clspam.protocol.hasher :as hasher]
-            [clspam.data :as data]
+  (:require [clspam.data :as data]
             [clojure.edn :as edn]
             [clojure.java.io :as io]
             [aleph.tcp :as tcp]
